@@ -1,6 +1,6 @@
 # PRODIGY_DS_03
 
-**Problem Statement** 
+**Problem Statement :** 
 Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioural data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 This task involved building a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioural data. I used the Bank Marketing dataset from the UCI Machine Learning Repository for this task.
